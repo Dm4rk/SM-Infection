@@ -1,0 +1,14 @@
+Problems in Infection Script:
+
+- Fix map skip, change map: Server shutdown after current map is finished
+- Please add "First Infected" text to scoreboard. It says only "Infected".
+- Add survivor weapons
+- At the moment: First infected can shoot until he infects someone and then respawn. Fix it: First infected only can shoot if he is the only infected one. Update while playing.
+- You can set S_Preparation Time. Please add options to set time till new round and till map change (with opened scoreboard)
+- Fix -1/X Players Bug
+
+
+Problems with Maptype:
+
+- Ask Bony ;)
+- Add same options for Spawns -> Spawns should be disabled in areas if there can't go a player
